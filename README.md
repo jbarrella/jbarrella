@@ -3,7 +3,7 @@
 ### Currently...
 📍 **Located in:** Cape Town, South Africa
 
-👨🏻‍💻 **Working on:** Freelancing + indie hacking
+👨🏻‍💻 **Working on:** Contracting + indie hacking
 
 👨🏻‍🔬 **Interested in:** Generative AI, GoLang, DuckDB
 
